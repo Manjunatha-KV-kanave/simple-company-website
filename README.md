@@ -1,2 +1,2 @@
-# simplpe-company-website
+# simlpe-company-website
 Thayi - Beru -Company
